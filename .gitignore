@@ -6,6 +6,7 @@ embeddings/text8.zip
 face_generation/data/
 
 **/.ipynb_checkpoints/
+intro-to-tflearn/mnist/
 
 
 *.pyc
